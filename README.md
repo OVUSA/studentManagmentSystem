@@ -34,10 +34,5 @@ Since the method is static, you will be executing it like this: ```StudentValida
 
 This class has several methods. Each has a "TODO" comment. Read the comments and follow the instructions.
 
-## Part 4 - Run the Main.java class
 
-You don't need to add any code to the Main.java class. It's been completed for you.
-I would recommend running the Main method every time you make any changes to your program (reasonable changes) to see what effect this particular 
-code you've written has on the program overall.
 
-As always, in case of questions feel free to contact me! :) 
